@@ -1,0 +1,212 @@
+[
+  {
+    "id": "envelope-old-rope-seal",
+    "label": "Old Rope Seal Envelope",
+    "category": "envelopes",
+    "file": "envelope-old-rope-seal.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/envelope-old-rope-seal.png"
+  },
+  {
+    "id": "seal-baby-pink-heart",
+    "label": "Baby Pink Heart Seal",
+    "category": "seals",
+    "file": "seal-baby-pink-heart-cute-leaf-design.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/seal-baby-pink-heart-cute-leaf-design.png"
+  },
+  {
+    "id": "seal-gold-rose-flower",
+    "label": "Gold Rose Flower Seal",
+    "category": "seals",
+    "file": "seal-gold-pastel-pink-golden-rose-flower.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/seal-gold-pastel-pink-golden-rose-flower.png"
+  },
+  {
+    "id": "seal-green-botanical",
+    "label": "Green Botanical Seal",
+    "category": "seals",
+    "file": "seal-green-pastel-white-flower-botanical.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/seal-green-pastel-white-flower-botanical.png"
+  },
+  {
+    "id": "stamp-balloon-adventure",
+    "label": "Balloon Adventure",
+    "category": "stamps",
+    "file": "stamp-balloon-adventure-travel.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/stamp-balloon-adventure-travel.png"
+  },
+  {
+    "id": "stamp-bouquet-purple-blue",
+    "label": "Purple Blue Bouquet",
+    "category": "stamps",
+    "file": "stamp-bouquet-bloom-flowers-purple-blue-botanical.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/stamp-bouquet-bloom-flowers-purple-blue-botanical.png"
+  },
+  {
+    "id": "stamp-cherry",
+    "label": "Cherries",
+    "category": "stamps",
+    "file": "stamp-cherry-cherries-fruit-red.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/stamp-cherry-cherries-fruit-red.png"
+  },
+  {
+    "id": "stamp-eiffel-tower",
+    "label": "Eiffel Tower",
+    "category": "stamps",
+    "file": "stamp-eiffel-tower-paris-france.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/stamp-eiffel-tower-paris-france.png"
+  },
+  {
+    "id": "stamp-flowers-white-pink",
+    "label": "White & Pink Bouquet",
+    "category": "stamps",
+    "file": "stamp-flowers-bouquet-white-and-pink-botanical.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/stamp-flowers-bouquet-white-and-pink-botanical.png"
+  },
+  {
+    "id": "stamp-globe-travel",
+    "label": "Retro Globe",
+    "category": "stamps",
+    "file": "stamp-globe-earth-travel-retro.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/stamp-globe-earth-travel-retro.png"
+  },
+  {
+    "id": "stamp-grunge-heart",
+    "label": "Grunge Heart",
+    "category": "stamps",
+    "file": "stamp-grunge-heart-red-texture.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/stamp-grunge-heart-red-texture.png"
+  },
+  {
+    "id": "stamp-india-peacock",
+    "label": "India Peacock",
+    "category": "stamps",
+    "file": "stamp-india-indian-peacock-taj-mahal-ashoka-pillar-dance.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/stamp-india-indian-peacock-taj-mahal-ashoka-pillar-dance.png"
+  },
+  {
+    "id": "stamp-lemon",
+    "label": "Lemon",
+    "category": "stamps",
+    "file": "stamp-lemon-yellow-vegetable.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/stamp-lemon-yellow-vegetable.png"
+  },
+  {
+    "id": "stamp-orange-fruit",
+    "label": "Orange",
+    "category": "stamps",
+    "file": "stamp-orange-fruit-bright-fruit.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/stamp-orange-fruit-bright-fruit.png"
+  },
+  {
+    "id": "stamp-panther",
+    "label": "Black Panther",
+    "category": "stamps",
+    "file": "stamp-panther-black-texture.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/stamp-panther-black-texture.png"
+  },
+  {
+    "id": "stamp-purple-bee",
+    "label": "Purple Bumble Bee",
+    "category": "stamps",
+    "file": "stamp-purple-bumble-bee-botanical-vintage.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/stamp-purple-bumble-bee-botanical-vintage.png"
+  },
+  {
+    "id": "stamp-sunflowers-van-gogh",
+    "label": "Van Gogh Sunflowers",
+    "category": "stamps",
+    "file": "stamp-sunflowers-flowers-yellow-bloom-vincent-van-gogh.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/stamp-sunflowers-flowers-yellow-bloom-vincent-van-gogh.png"
+  },
+  {
+    "id": "stamp-uk-london",
+    "label": "London Big Ben",
+    "category": "stamps",
+    "file": "stamp-uk-london-britain-big-ben-english.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/stamp-uk-london-britain-big-ben-english.png"
+  },
+  {
+    "id": "stamp-van-gogh-face",
+    "label": "Van Gogh Flower Face",
+    "category": "stamps",
+    "file": "stamp-vincent-van-gosh-flower-collage-face-painting.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/stamp-vincent-van-gosh-flower-collage-face-painting.png"
+  },
+  {
+    "id": "stamp-starry-night",
+    "label": "Starry Night",
+    "category": "stamps",
+    "file": "stamp-vincent-van-gosh-starry-night-painting.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/stamp-vincent-van-gosh-starry-night-painting.png"
+  },
+  {
+    "id": "stamp-white-sunflower",
+    "label": "White Sunflower",
+    "category": "stamps",
+    "file": "stamp-white-sunflower-cute-pretty.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/stamp-white-sunflower-cute-pretty.png"
+  },
+  {
+    "id": "sticker-clock",
+    "label": "Alarm Clock",
+    "category": "stickers",
+    "file": "sticker-clock-analog-time-watch-alarm.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/sticker-clock-analog-time-watch-alarm.png"
+  },
+  {
+    "id": "sticker-coffee-cup",
+    "label": "Coffee Cup",
+    "category": "stickers",
+    "file": "sticker-coffee-cup-starbucks.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/sticker-coffee-cup-starbucks.png"
+  },
+  {
+    "id": "sticker-flower-purple",
+    "label": "Purple Flowers",
+    "category": "stickers",
+    "file": "sticker-flower-flowers-purple-botanical.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/sticker-flower-flowers-purple-botanical.png"
+  },
+  {
+    "id": "sticker-flower-pink-red",
+    "label": "Pink Red Flower",
+    "category": "stickers",
+    "file": "sticker-flower-pink-red-botanical.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/sticker-flower-pink-red-botanical.png"
+  },
+  {
+    "id": "sticker-ice-cream",
+    "label": "Strawberry Ice Cream",
+    "category": "stickers",
+    "file": "sticker-ice-cream-strawberry-red-pink-summer.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/sticker-ice-cream-strawberry-red-pink-summer.png"
+  },
+  {
+    "id": "sticker-lemons",
+    "label": "Lemons & Flowers",
+    "category": "stickers",
+    "file": "sticker-lemons-vegetable-botanical-flowers.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/sticker-lemons-vegetable-botanical-flowers.png"
+  },
+  {
+    "id": "sticker-red-leaves",
+    "label": "Autumn Leaves",
+    "category": "stickers",
+    "file": "sticker-red-leaves-leaf-autumn-fall-halloween.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/sticker-red-leaves-leaf-autumn-fall-halloween.png"
+  },
+  {
+    "id": "sticker-sun",
+    "label": "Summer Sun",
+    "category": "stickers",
+    "file": "sticker-sun-yellow-orange-summer-hot-heat-beach.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/sticker-sun-yellow-orange-summer-hot-heat-beach.png"
+  },
+  {
+    "id": "sticker-teddy-bear",
+    "label": "Teddy Bear",
+    "category": "stickers",
+    "file": "sticker-teddy-bear-plushie-brown-kids-toy.png",
+    "url": "https://raw.githubusercontent.com/mammamiadesign/raw.boardassets/main/sticker-teddy-bear-plushie-brown-kids-toy.png"
+  }
+]
